@@ -30,13 +30,13 @@
   - Enhanced space-removal functionality with customizable settings.
   - Improved performance and bug fixes.
 
-[📥 Download v1.0.0](https://github.com/markspectorpro/tuonecopy-release/blob/main/releases/v1.0.0/TuOneCopy_v1.0.0.exe)
+[📥 Download v1.0.0](https://github.com/markspectorpro/tuonecopy-release/releases/tag/v1.0.0/TuOneCopy_v1.0.0.exe)
 
 ---
 
 ## 🛠️ **How to Use**
 
-1. Download the latest version from the [Releases](https://github.com/markspectorpro/tuonecopy-release/blob/main/releases/releaseinfo.md) section.
+1. Download the latest version from the [Releases](https://github.com/markspectorpro/tuonecopy-release/releases/tag/v1.0.0) section.
 2. Run the downloaded `.exe` file.
 3. Follow the on-screen instructions to consolidate your code files.
 
