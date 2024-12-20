@@ -30,7 +30,9 @@
   - Enhanced space-removal functionality with customizable settings.
   - Improved performance and bug fixes.
 
-[📥 Download v1.0.0](https://github.com/markspectorpro/tuonecopy-release/releases/tag/v1.0.0/TuOneCopy_v1.0.0.exe)
+<!--[📥 Download v1.0.0](https://github.com/markspectorpro/tuonecopy-release/releases/tag/v1.0.0/TuOneCopy_v1.0.0.exe)-->
+
+[📥 Download v1.0.0](https://github.com/markspectorpro/tuonecopy-release/releases/download/v1.0.0/TuOneCopy_v1.0.0.exe)
 
 ---
 
