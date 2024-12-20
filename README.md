@@ -36,7 +36,7 @@
 
 ## 🛠️ **How to Use**
 
-1. Download the latest version from the [Releases](https://github.com/YourUsername/TuOneCopy/releases) section.
+1. Download the latest version from the [Releases](https://github.com/markspectorpro/tuonecopy-release/blob/main/releases/releaseinfo.md) section.
 2. Run the downloaded `.exe` file.
 3. Follow the on-screen instructions to consolidate your code files.
 
