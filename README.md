@@ -22,14 +22,15 @@
 
 ## 🌟 **Current Version**
 
-### **v2.0.0**
+### **v1.0.0**
+
 - **Release Date:** [Insert Date]
 - **Features:**
   - Advanced editing options for consolidated files.
   - Enhanced space-removal functionality with customizable settings.
   - Improved performance and bug fixes.
 
-[📥 Download v2.0.0](https://github.com/YourUsername/TuOneCopy/releases/download/v2.0.0/TuOneCopy_v2.0.0.exe)
+[📥 Download v1.0.0](https://github.com/markspectorpro/tuonecopy-release/blob/main/releases/TuOneCopy_v1.0.0.exe)
 
 ---
 
@@ -43,6 +44,7 @@
 
 ## 📜 **Previous Versions**
 
+<!--
 ### **v1.1.0**
 - **Features:**
   - Added undo and redo functionality.
@@ -53,6 +55,7 @@
 - **Features:**
   - Initial release with basic functionality.
 - [📥 Download v1.0.0](https://github.com/YourUsername/TuOneCopy/releases/download/v1.0.0/TuOneCopy_v1.0.0.exe)
+-->
 
 ---
 
@@ -64,4 +67,4 @@ If **TuOneCopy** has saved you time or helped you learn and fix your code effect
 
 ## 📜 **License**
 
-This project is licensed under the [MIT License](LICENSE).
+<!--This project is licensed under the [MIT License](LICENSE).-->
