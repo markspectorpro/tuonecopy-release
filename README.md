@@ -3,6 +3,8 @@
 **TuOneCopy** is a desktop application designed to help developers and programmers organize code files from a selected folder, including its subfolders, into a single consolidated document. This app is especially useful for preparing code for learning, debugging, or working with tools like ChatGPT.
 
 ---
+![Screenshot (2552)](https://github.com/user-attachments/assets/bca6010d-df02-46e4-bec4-1eed84c6e891)
+---
 
 ## 📌 **What It Does**
 
